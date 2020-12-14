@@ -1,26 +1,22 @@
 /*
  * AddCmd.cpp
  *
- *  Created on: Nov 20, 2020
+ *  Created on: Nov 24, 2020
  *      Author: tmitchu2
  */
 #include <string>
 #include "AddCmd.h"
-//using namespace std;
+
 
 namespace CCG
 {
-	std::string AddCmd::getFlagValue(enum AddCmd::ClassFlag clsFlag)
+	bool AddCmd::execute()
 	{
-		if(clsFlag == AddCmd::SHORT_FLAG)
-			{return "-cls";}
-		else if(clsFlag == AddCmd::LONG_FLAG)
-			{return "--class";}
-		return "invalid";
+		return true;
 	}
 
-	AddCmd::AddCmd()
-	{
-		addClsFlag = SHORT_FLAG;
-	}
+//	AddCmd::AddCmd()
+//	{
+//		//addClsFlag = SHORT_FLAG;
+//	}
 }
