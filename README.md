@@ -1,13 +1,12 @@
 # Class Code Generator (CCG)
 Implemented in C++ (11) Class Code Generator (CCG) helps with creating, managing, scripting, and templating as needed for your development.  Aimed to work for developers of all kinds.
 
-
 _**Current Version = Alpha v. 1.0**_
 
 ## Languages Written For:
-* (Alpha version 1.0) - Java [Ui]
-* (Alpha version 1.1.0) - Java + C#, Python (3.x), C [Ui]
-* (Alpha version 1.1.1) - Java, C#, Python (3.x), C + C++ [Ui]
+* (Alpha version 1.0) - Java [Console]
+* (Alpha version 1.1.0) - Java + C#, Python (3.x), C [Console]
+* (Alpha version 1.1.1) - Java, C#, Python (3.x), C + C++ [Console]
 
 ### Future Considerations for CCG
 * (Alpha version 1.1.2) - Java, C#, Python (3.x), C, C++ + Xamarin C# (Android, iPhone, Windows) [Ui]
@@ -29,8 +28,8 @@ _**Current Version = Alpha v. 1.0**_
 
 
 ### GUI Planned Features
-1.1.0 = build C# classes (non-partial) + C# interfaces, C structs, and Python (3.x) classes  
-1.1.1 = build C++ classes, and C++ abstract (pure virtual methods [=0])
+1.1.0 = build C# classes (non-partial) + C# interfaces, C structs, and Python (3.x) classes   
+1.1.1 = build C++ classes, and C++ abstract (pure virtual methods [=0])    
 1.1.2 = build common data structures, unit tests, import modules, and support plugin development for Xamarin-Android/iPhone/Windows
 
 ### Command Line Planned Features
