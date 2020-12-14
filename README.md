@@ -5,8 +5,8 @@ _**Current Version = Alpha v. 1.0**_
 
 ## Languages Written For:
 * (Alpha version 1.0) - Java [Console]
-* (Alpha version 1.1.0) - Java + C#, Python (3.x), C [Console]
-* (Alpha version 1.1.1) - Java, C#, Python (3.x), C + C++ [Console]
+* (Alpha version 1.1.0) - above + C#, Python (3.x), C [Console]
+* (Alpha version 1.1.1) - above + C++ [Console]
 
 ### Future Considerations for CCG
 * (Alpha version 1.1.2) - Java, C#, Python (3.x), C, C++ + Xamarin C# (Android, iPhone, Windows) [Ui]
