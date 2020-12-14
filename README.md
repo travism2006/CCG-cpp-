@@ -1,11 +1,6 @@
-# CCG
-Implemented in C++ (11) Class Code Generator (CCG) helps with creating, managing, scripting, and templating as needed for your development.
+# Class Code Generator (CCG)
+Implemented in C++ (11) Class Code Generator (CCG) helps with creating, managing, scripting, and templating as needed for your development.  Aimed to work for developers of all kinds.
 
-## Version
-1.0 alpha
-
-# Class Code Generator
-Aimed to work for developers of all kinds.  
 
 _**Current Version = Alpha v. 1.0**_
 
