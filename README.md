@@ -39,14 +39,14 @@ _**Current Version = Alpha v. 1.0**_
 
 
 ## Command Line
-The command line component of the applicaiton is the primary point of file and project management.  It also works (hand-in-hand) with the GUI as they both can take simlilar input, but the command line can manage more, better.  Valid commands and statements can also be written into a script and saved as a text file, then loaded into the command line to be parsed and executed (note: scripts will always inform the user with a confirmation message, whether or not the user has the 'confirm' command enabled).
+The command line component of the application is the primary point of file and project management.  It also works (hand-in-hand) with the GUI as they both can take simlilar input, but the command line can manage more, better.  Valid commands and statements can also be written into a script and saved as a text file, then loaded into the command line to be parsed and executed (note: scripts will always inform the user with a confirmation message, whether or not the user has the 'confirm' command enabled).
 
 
 ## GUI
-The GUI for the CCG application is designed for basic class specs as required per individual, or the requirements for a project.  In addition, the GUI can load any data into an XML document, or will unpack an XML document into the form elements on the GUI.  This means that the GUI can only handle one file manipulation at a time, whereas the command line component can take/handle multiple files.  Keep in mind that the GUI may load/unload any XML document with project data/information, but will only be designed for single-file management & manipulation.
+The GUI for the CCG application is designed for basic class specs as required per individual, or the requirements for a project.  In addition, the GUI can load any data into an XML document, or will unpack an XML document into the form elements on the GUI.  This means that the GUI can only handle one file manipulation at a time but offers more scope to change on a single file, whereas the command line component can take/handle multiple files and may require a bit of learning.  
 
 ### Other Details
-**Author Name**:  Travis Mitchum  
-**Date of Authoring**:  14 December, 2020
-**Last Update On**:  14 December, 2020
+**Author Name**:  Travis Mitchum       
+**Date of Authoring**:  14 December, 2020     
+**Last Update On**:  14 December, 2020     
 _**(author contact info may be obtained through message via their profile)**_
